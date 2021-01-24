@@ -1,24 +1,10 @@
-# README
+# todo-rails
+---
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 参考サイト
+https://reasonable-code.com/rails-todo/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 概要
+- シンプルtodo
+- タスクの追加・編集・削除ができる
+- tasksのcontrollerやview、modelを中心とした構成
